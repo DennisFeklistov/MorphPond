@@ -1,0 +1,20 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodstudio\\private\\fmodvca.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodvca.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodvca.generated.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodstudio\\public\\fmodstudiomodule.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\modules\\modulemanager.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\modules\\boilerplate\\moduleboilerplate.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\modules\\moduleinterface.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

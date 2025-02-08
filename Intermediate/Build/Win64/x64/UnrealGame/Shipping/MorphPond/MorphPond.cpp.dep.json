@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\intermediate\\source\\morphpond.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\intermediate\\build\\win64\\x64\\morphpond\\shipping\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\morphpond\\definitions.morphpond.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

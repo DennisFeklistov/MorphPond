@@ -1,0 +1,36 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodanimnotifyplay.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodanimnotifyplay.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animnotifies\\animnotify.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\public\\animation\\animnotifyqueue.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\public\\animation\\animtypes.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animlinkableelement.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animlinkableelement.generated.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\animation\\animenums.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animenums.generated.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintfunctionlibrary.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\blueprintfunctionlibrary.generated.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\uobject\\ue5releasestreamobjectversion.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\core\\public\\uobject\\devobjectversion.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animtypes.generated.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\public\\animation\\animnodemessages.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animnotifyqueue.generated.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\engine\\uht\\animnotify.generated.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodevent.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodstudio\\classes\\fmodasset.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodasset.generated.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodevent.generated.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodanimnotifyplay.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

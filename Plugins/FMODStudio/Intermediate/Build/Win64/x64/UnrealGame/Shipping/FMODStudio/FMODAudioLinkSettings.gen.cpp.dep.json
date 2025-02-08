@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodaudiolinksettings.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\x64\\unrealgame\\shipping\\fmodstudio\\pch.fmodstudio.h.pch",
+        "Includes": [
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\generatedcppincludes.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\metadata.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\textproperty.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\source\\fmodaudiolink\\public\\fmodaudiolinksettings.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\audiolink\\audiolinkcore\\public\\audiolinksettingsabstract.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\intermediate\\build\\win64\\unrealgame\\inc\\audiolinkcore\\uht\\audiolinksettingsabstract.generated.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\engine\\classes\\engine\\streamablemanager.h",
+            "e:\\otherprogramfiles\\ue5\\ue_5.2\\engine\\source\\runtime\\coreuobject\\public\\uobject\\gcobject.h",
+            "c:\\users\\thefl\\documents\\unreal projects\\morphpond\\plugins\\fmodstudio\\intermediate\\build\\win64\\unrealgame\\inc\\fmodstudio\\uht\\fmodaudiolinksettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
