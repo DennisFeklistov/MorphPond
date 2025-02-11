@@ -19842,3 +19842,790 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.02.09-04.16.29:156][291]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Cannonball/BP_EnemyCannonball.BP_EnemyCannonball
 [2025.02.09-04.16.29:156][291]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Gwump/BP_EnemyGwump.BP_EnemyGwump
 [2025.02.09-04.16.29:156][291]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Smallenemy/BP_SmallEnemy.BP_SmallEnemy
+[2025.02.09-04.51.58:217][831]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.164 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 9713 files in 10732 folders with total size 361 MiB.
+[2025.02.09-05.51.58:237][628]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.183 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-06.51.58:284][425]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.230 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-07.51.58:219][269]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.165 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-08.51.58:222][ 66]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.168 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-09.51.58:205][863]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.150 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-10.51.59:086][663]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.030 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-11.51.58:217][458]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.160 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-12.51.58:264][255]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.207 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-13.51.58:251][ 52]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.194 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-14.51.58:236][849]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.179 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-15.52.00:777][647]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.208 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-16.52.00:751][444]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.181 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-17.52.00:770][241]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.199 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-18.52.00:776][ 38]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.204 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-19.52.00:721][835]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-20.52.00:723][632]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.151 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-21.52.00:724][429]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.151 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-22.52.00:742][226]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.168 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.09-23.52.00:735][ 23]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.161 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.10-00.52.01:628][823]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:19.053 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.10-01.52.00:771][618]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.196 and deleted 17 files with total size 0 MiB and 17 empty folders. Scanned 9713 files in 10731 folders with total size 361 MiB.
+[2025.02.10-02.52.00:717][415]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-03.52.00:726][212]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-04.52.00:760][708]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.183 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-05.52.00:749][505]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.171 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-06.52.00:789][302]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.210 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-07.52.00:757][ 99]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.178 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-08.52.00:731][896]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.152 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-09.52.00:752][693]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.173 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-10.52.00:760][490]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.180 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-11.52.00:762][287]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.181 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-12.52.00:787][ 84]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.205 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-13.52.00:722][881]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.140 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-14.52.00:780][679]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.197 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-15.52.03:308][476]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.216 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-16.52.03:233][273]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-17.52.03:294][ 70]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.201 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-18.52.03:303][867]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.210 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-19.52.03:260][664]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.167 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-20.52.03:325][462]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.231 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-21.52.03:291][259]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.196 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-22.52.03:242][ 56]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.10-23.52.03:248][853]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.153 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.11-00.52.03:222][649]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.11-01.52.03:222][446]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.127 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.11-02.02.12:680][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-02.02.12:765][372]LogFMOD: Display: Loaded bank lookup
+[2025.02.11-02.02.12:766][372]LogFMOD: Display: Loaded asset lookup
+[2025.02.11-02.02.12:775][372]LogFMOD: Default sample rate = 48000
+[2025.02.11-02.02.12:775][372]LogFMOD: System sample rate = 48000
+[2025.02.11-02.02.12:775][372]LogFMOD: Matching system sample rate 48000
+[2025.02.11-02.02.12:806][372]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.11-02.02.12:806][372]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.11-02.02.12:806][372]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.11-02.02.12:997][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-02.02.12:998][372]PIE: New page: PIE session: Test (11 Feb 2025, 11:02:12 pm)
+[2025.02.11-02.02.13:004][372]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-02.02.13:097][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.091958s)
+[2025.02.11-02.02.13:097][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.092376s)
+[2025.02.11-02.02.13:097][372]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-02.02.13:100][372]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-02.02.13:102][372]LogAIModule: Creating AISystem for world Test
+[2025.02.11-02.02.13:105][372]LogPlayLevel: PIE: World Init took: (0.008095s)
+[2025.02.11-02.02.13:447][372]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2025.02.11-02.02.13:521][372]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2025.02.11-02.02.13:521][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-02.02.13:521][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-02.02.13:521][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-02.02.13:521][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-02.02.13:521][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-02.02.13:521][372]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.11-02.02.13:521][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-02.02.13:521][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-02.02.13:522][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-02.02.13:522][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-02.02.13:522][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-02.02.13:525][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-02.02.13:572][372]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-02.02.13:577][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-02.02.13:577][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-02.02.13:577][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-02.02.13:581][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2025.02.11-02.02.13:581][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2025.02.11-02.02.13:584][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2025.02.11-02.02.13:584][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2025.02.11-02.02.13:584][372]LogInit: FAudioDevice initialized with ID 45.
+[2025.02.11-02.02.13:584][372]LogAudio: Display: Audio Device (ID: 45) registered with world 'Test'.
+[2025.02.11-02.02.13:584][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2025.02.11-02.02.13:595][372]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.11-02.02.13:601][372]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.11-12.32.13
+[2025.02.11-02.02.13:603][372]LogWorld: Bringing up level for play took: 0.008222
+[2025.02.11-02.02.13:607][372]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2025.02.11-02.02.13:640][372]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1227.828 Y=-2566.934 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-02.02.13:649][372]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2377.608 Y=-1796.860 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-02.02.13:668][372]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2065.286 Y=-2214.308 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-02.02.13:671][372]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2399.922 Y=-2129.024 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-02.02.13:680][372]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.11-02.02.13:681][372]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.11-02.02.13:681][372]PIE: Server logged in
+[2025.02.11-02.02.13:682][372]PIE: Play in editor total start time 0.964 seconds.
+[2025.02.11-02.02.13:714][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-02.02.13:717][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-02.02.13:719][372]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-02.03.41:677][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-02.03.41:677][178]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-02.03.41:679][178]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-02.03.41:679][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-02.03.41:685][178]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-02.03.41:696][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-02.03.41:740][178]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-02.03.41:741][178]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2025.02.11-02.03.41:741][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.02.11-02.03.41:744][178]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2025.02.11-02.03.41:755][178]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.11-02.03.41:783][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-02.03.41:784][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-02.03.41:785][178]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-02.03.41:825][179]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2025.02.11-02.03.44:191][439]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-02.03.44:253][439]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MorphPond/Maps/Test" FILE="../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.11-02.03.44:282][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.02.11-02.03.44:321][439]LogSavePackage: Moving output files for package: /Game/MorphPond/Maps/Test
+[2025.02.11-02.03.44:321][439]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/TestAA6F876A4210F4D0DE638F9797AC3FEB.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap'
+[2025.02.11-02.03.44:337][439]LogFileHelpers: Saving map 'Test' took 0.085
+[2025.02.11-02.03.44:348][439]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 1:49 min)
+[2025.02.11-02.03.44:358][439]AssetCheck: New page: Asset Save: Test
+[2025.02.11-02.03.44:358][439]LogContentValidation: Display: Validating /Script/Engine.World /Game/MorphPond/Maps/Test.Test
+[2025.02.11-02.52.03:285][191]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.189 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.11-03.52.03:211][988]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.115 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.11-04.52.03:191][785]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.094 and deleted 26 files with total size 0 MiB and 25 empty folders. Scanned 9696 files in 10714 folders with total size 361 MiB.
+[2025.02.11-05.52.03:193][582]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.096 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 9670 files in 10689 folders with total size 360 MiB.
+[2025.02.11-06.33.48:205][187]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-06.33.48:263][187]LogFMOD: Display: Loaded bank lookup
+[2025.02.11-06.33.48:263][187]LogFMOD: Display: Loaded asset lookup
+[2025.02.11-06.33.48:270][187]LogFMOD: Default sample rate = 48000
+[2025.02.11-06.33.48:271][187]LogFMOD: System sample rate = 48000
+[2025.02.11-06.33.48:271][187]LogFMOD: Matching system sample rate 48000
+[2025.02.11-06.33.48:298][187]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.11-06.33.48:298][187]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.11-06.33.48:298][187]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.11-06.33.48:333][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-06.33.48:333][187]PIE: New page: PIE session: Test (12 Feb 2025, 3:33:48 am)
+[2025.02.11-06.33.48:372][187]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-06.33.48:384][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011888s)
+[2025.02.11-06.33.48:384][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.011955s)
+[2025.02.11-06.33.48:384][187]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-06.33.48:384][187]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-06.33.48:385][187]LogAIModule: Creating AISystem for world Test
+[2025.02.11-06.33.48:385][187]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2025.02.11-06.33.48:417][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2025.02.11-06.33.48:419][187]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2025.02.11-06.33.48:419][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-06.33.48:419][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-06.33.48:419][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-06.33.48:419][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-06.33.48:419][187]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-06.33.48:419][187]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.11-06.33.48:419][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-06.33.48:419][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-06.33.48:420][187]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-06.33.48:420][187]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-06.33.48:420][187]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-06.33.48:422][187]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-06.33.48:471][187]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-06.33.48:471][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-06.33.48:471][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-06.33.48:471][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-06.33.48:472][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2025.02.11-06.33.48:472][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2025.02.11-06.33.48:474][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2025.02.11-06.33.48:474][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2025.02.11-06.33.48:474][187]LogInit: FAudioDevice initialized with ID 46.
+[2025.02.11-06.33.48:474][187]LogAudio: Display: Audio Device (ID: 46) registered with world 'Test'.
+[2025.02.11-06.33.48:474][187]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2025.02.11-06.33.48:477][187]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.11-06.33.48:481][187]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.11-17.03.48
+[2025.02.11-06.33.48:482][187]LogWorld: Bringing up level for play took: 0.004387
+[2025.02.11-06.33.48:485][187]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2025.02.11-06.33.48:498][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1358.076 Y=1681.983 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.33.48:501][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1396.621 Y=1241.235 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.33.48:503][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1324.567 Y=1761.957 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.33.48:506][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2015.766 Y=1361.493 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.33.48:514][187]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2298.901 Y=1237.115 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.33.48:520][187]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.11-06.33.48:520][187]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.11-06.33.48:520][187]PIE: Server logged in
+[2025.02.11-06.33.48:521][187]PIE: Play in editor total start time 0.298 seconds.
+[2025.02.11-06.33.48:542][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.33.48:543][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.33.48:546][187]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.33.48:823][194]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.211032 > MaxSimulationTimeStep (0.050) for 'BP_SmallEnemy_C_0', movement 'Walking'
+[2025.02.11-06.33.48:823][194]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.211032 > MaxSimulationTimeStep (0.050) for 'BP_SmallEnemy_C_1', movement 'Walking'
+[2025.02.11-06.33.48:823][194]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.211032 > MaxSimulationTimeStep (0.050) for 'BP_SmallEnemy_C_6', movement 'Walking'
+[2025.02.11-06.33.48:823][194]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.211032 > MaxSimulationTimeStep (0.050) for 'BP_SmallEnemy_C_7', movement 'Walking'
+[2025.02.11-06.34.58:616][641]LogNet: Browse: /Game/MorphPond/Maps/Test
+[2025.02.11-06.34.58:643][641]LogLoad: LoadMap: /Game/MorphPond/Maps/Test
+[2025.02.11-06.34.58:643][641]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-06.34.58:714][641]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-06.34.58:714][641]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-06.34.58:752][641]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-06.34.58:759][641]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.02.11-06.34.58:820][641]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-06.34.58:833][641]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012292s)
+[2025.02.11-06.34.58:833][641]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.012356s)
+[2025.02.11-06.34.58:833][641]LogAudio: Display: Audio Device (ID: 46) registered with world 'Test'.
+[2025.02.11-06.34.58:833][641]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-06.34.58:833][641]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-06.34.58:833][641]LogAIModule: Creating AISystem for world Test
+[2025.02.11-06.34.58:834][641]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2025.02.11-06.34.58:834][641]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.11-06.34.58:873][641]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.11-17.04.58
+[2025.02.11-06.34.58:874][641]LogWorld: Bringing up level for play took: 0.039438
+[2025.02.11-06.34.58:880][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2182.503 Y=-1355.196 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.34.58:882][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2050.099 Y=2543.017 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.34.58:884][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1587.687 Y=-2003.410 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.34.58:890][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2355.940 Y=1922.225 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.34.58:895][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2263.458 Y=-1400.379 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.34.58:896][641]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1805.508 Y=2625.417 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.34.58:901][641]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_1' was already added to the screen.
+[2025.02.11-06.34.58:901][641]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.11-06.34.58:911][641]LogLoad: Took 0.266863 seconds to LoadMap(/Game/MorphPond/Maps/UEDPIE_0_Test)
+[2025.02.11-06.34.58:924][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.34.58:925][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.34.58:926][641]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.36.46:938][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-06.36.46:938][665]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-06.36.46:939][665]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-06.36.46:939][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-06.36.46:944][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-06.36.46:951][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-06.36.46:987][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-06.36.46:987][665]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2025.02.11-06.36.46:987][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.02.11-06.36.46:990][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2025.02.11-06.36.47:000][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.02.11-06.36.47:036][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.36.47:037][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.36.47:037][665]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.36.47:049][666]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2025.02.11-06.36.48:600][841]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-06.36.48:659][841]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MorphPond/Maps/Test" FILE="../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.11-06.36.48:690][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.02.11-06.36.48:724][841]LogSavePackage: Moving output files for package: /Game/MorphPond/Maps/Test
+[2025.02.11-06.36.48:724][841]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/Test21149A334197F0FB32B0E280DD629952.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap'
+[2025.02.11-06.36.48:737][841]LogFileHelpers: Saving map 'Test' took 0.078
+[2025.02.11-06.36.48:745][841]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 1:50 min)
+[2025.02.11-06.36.48:752][841]AssetCheck: New page: Asset Save: Test
+[2025.02.11-06.36.48:752][841]LogContentValidation: Display: Validating /Script/Engine.World /Game/MorphPond/Maps/Test.Test
+[2025.02.11-06.48.35:512][818]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-06.48.35:551][818]LogFMOD: Display: Loaded bank lookup
+[2025.02.11-06.48.35:551][818]LogFMOD: Display: Loaded asset lookup
+[2025.02.11-06.48.35:558][818]LogFMOD: Default sample rate = 48000
+[2025.02.11-06.48.35:558][818]LogFMOD: System sample rate = 48000
+[2025.02.11-06.48.35:558][818]LogFMOD: Matching system sample rate 48000
+[2025.02.11-06.48.35:584][818]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.11-06.48.35:584][818]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.11-06.48.35:584][818]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.11-06.48.35:621][818]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-06.48.35:621][818]PIE: New page: PIE session: Test (12 Feb 2025, 3:48:35 am)
+[2025.02.11-06.48.35:659][818]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-06.48.35:671][818]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011443s)
+[2025.02.11-06.48.35:671][818]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.011508s)
+[2025.02.11-06.48.35:671][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-06.48.35:671][818]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-06.48.35:672][818]LogAIModule: Creating AISystem for world Test
+[2025.02.11-06.48.35:672][818]LogPlayLevel: PIE: World Init took: (0.001093s)
+[2025.02.11-06.48.35:704][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2025.02.11-06.48.35:706][818]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2025.02.11-06.48.35:706][818]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-06.48.35:706][818]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-06.48.35:706][818]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-06.48.35:706][818]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-06.48.35:706][818]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-06.48.35:706][818]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.11-06.48.35:706][818]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-06.48.35:706][818]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-06.48.35:707][818]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-06.48.35:707][818]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-06.48.35:707][818]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-06.48.35:709][818]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-06.48.35:755][818]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-06.48.35:755][818]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-06.48.35:755][818]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-06.48.35:755][818]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-06.48.35:756][818]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2025.02.11-06.48.35:756][818]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2025.02.11-06.48.35:758][818]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2025.02.11-06.48.35:758][818]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2025.02.11-06.48.35:758][818]LogInit: FAudioDevice initialized with ID 47.
+[2025.02.11-06.48.35:758][818]LogAudio: Display: Audio Device (ID: 47) registered with world 'Test'.
+[2025.02.11-06.48.35:759][818]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2025.02.11-06.48.35:763][818]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.11-06.48.35:768][818]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.11-17.18.35
+[2025.02.11-06.48.35:768][818]LogWorld: Bringing up level for play took: 0.006026
+[2025.02.11-06.48.35:772][818]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.02.11-06.48.35:781][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2166.374 Y=1503.267 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.48.35:784][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2655.433 Y=-1433.522 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.48.35:789][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1840.162 Y=2243.631 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.48.35:791][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2609.884 Y=-1660.443 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.48.35:794][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2529.198 Y=-2164.913 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.48.35:796][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2055.684 Y=1397.932 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.48.35:798][818]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1871.886 Y=1210.152 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-06.48.35:805][818]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.11-06.48.35:805][818]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.11-06.48.35:805][818]PIE: Server logged in
+[2025.02.11-06.48.35:806][818]PIE: Play in editor total start time 0.278 seconds.
+[2025.02.11-06.48.35:822][818]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.48.35:823][818]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.48.35:823][818]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.48.36:052][824]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.182442 > MaxSimulationTimeStep (0.050) for 'BP_SmallEnemy_C_0', movement 'Walking'
+[2025.02.11-06.48.36:052][824]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.182442 > MaxSimulationTimeStep (0.050) for 'BP_SmallEnemy_C_3', movement 'Walking'
+[2025.02.11-06.49.15:014][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-06.49.15:014][190]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-06.49.15:018][190]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-06.49.15:022][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-06.49.15:046][190]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-06.49.15:056][190]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-06.49.15:096][190]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-06.49.15:096][190]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2025.02.11-06.49.15:096][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.02.11-06.49.15:099][190]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2025.02.11-06.49.15:104][190]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-06.49.15:109][190]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2025.02.11-06.49.15:142][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.49.15:143][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.49.15:143][190]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-06.49.15:155][191]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.02.11-06.49.15:987][285]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-06.49.16:052][285]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MorphPond/Maps/Test" FILE="../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.11-06.49.16:080][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.02.11-06.49.16:116][285]LogSavePackage: Moving output files for package: /Game/MorphPond/Maps/Test
+[2025.02.11-06.49.16:116][285]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/Test1ACED50D4706BDC1E436C1A67926EF77.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap'
+[2025.02.11-06.49.16:129][285]LogFileHelpers: Saving map 'Test' took 0.077
+[2025.02.11-06.49.16:139][285]LogFileHelpers: InternalPromptForCheckoutAndSave took 152 ms (total: 1:50 min)
+[2025.02.11-06.49.16:146][285]AssetCheck: New page: Asset Save: Test
+[2025.02.11-06.49.16:146][285]LogContentValidation: Display: Validating /Script/Engine.World /Game/MorphPond/Maps/Test.Test
+[2025.02.11-06.52.03:193][923]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.095 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9670 files in 10688 folders with total size 360 MiB.
+[2025.02.11-07.52.03:195][720]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.095 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9670 files in 10688 folders with total size 360 MiB.
+[2025.02.11-08.52.03:212][517]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.111 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9670 files in 10688 folders with total size 360 MiB.
+[2025.02.11-09.52.03:217][314]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.115 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9670 files in 10688 folders with total size 360 MiB.
+[2025.02.11-10.42.29:041][650]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-10.42.29:088][650]LogFMOD: Display: Loaded bank lookup
+[2025.02.11-10.42.29:088][650]LogFMOD: Display: Loaded asset lookup
+[2025.02.11-10.42.29:095][650]LogFMOD: Default sample rate = 48000
+[2025.02.11-10.42.29:095][650]LogFMOD: System sample rate = 48000
+[2025.02.11-10.42.29:095][650]LogFMOD: Matching system sample rate 48000
+[2025.02.11-10.42.29:122][650]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.11-10.42.29:122][650]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.11-10.42.29:122][650]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.11-10.42.29:158][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-10.42.29:158][650]PIE: New page: PIE session: Test (12 Feb 2025, 7:42:29 am)
+[2025.02.11-10.42.29:158][650]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-10.42.29:171][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013459s)
+[2025.02.11-10.42.29:172][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.013509s)
+[2025.02.11-10.42.29:172][650]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.42.29:172][650]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-10.42.29:172][650]LogAIModule: Creating AISystem for world Test
+[2025.02.11-10.42.29:173][650]LogPlayLevel: PIE: World Init took: (0.001127s)
+[2025.02.11-10.42.29:206][650]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2025.02.11-10.42.29:208][650]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2025.02.11-10.42.29:208][650]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-10.42.29:208][650]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-10.42.29:208][650]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-10.42.29:208][650]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-10.42.29:208][650]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-10.42.29:208][650]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.11-10.42.29:208][650]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-10.42.29:208][650]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-10.42.29:209][650]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-10.42.29:209][650]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-10.42.29:209][650]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-10.42.29:211][650]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-10.42.29:257][650]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-10.42.29:257][650]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-10.42.29:257][650]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-10.42.29:257][650]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-10.42.29:257][650]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2025.02.11-10.42.29:258][650]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2025.02.11-10.42.29:260][650]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2025.02.11-10.42.29:260][650]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2025.02.11-10.42.29:260][650]LogInit: FAudioDevice initialized with ID 48.
+[2025.02.11-10.42.29:260][650]LogAudio: Display: Audio Device (ID: 48) registered with world 'Test'.
+[2025.02.11-10.42.29:260][650]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2025.02.11-10.42.29:263][650]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.11-10.42.29:267][650]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.11-21.12.29
+[2025.02.11-10.42.29:268][650]LogWorld: Bringing up level for play took: 0.004741
+[2025.02.11-10.42.29:271][650]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.02.11-10.42.29:278][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1494.758 Y=-2195.539 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.42.29:281][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2485.308 Y=1548.450 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.42.29:283][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2269.741 Y=2102.223 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.42.29:285][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1899.230 Y=-1704.023 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.42.29:290][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2610.464 Y=1604.299 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.42.29:292][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2242.457 Y=2432.098 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.42.29:294][650]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2322.262 Y=-1271.057 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.42.29:303][650]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.11-10.42.29:303][650]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.11-10.42.29:303][650]PIE: Server logged in
+[2025.02.11-10.42.29:304][650]PIE: Play in editor total start time 0.248 seconds.
+[2025.02.11-10.42.29:323][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.42.29:323][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.42.29:324][650]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.44.00:391][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-10.44.00:391][848]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-10.44.00:392][848]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-10.44.00:393][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-10.44.00:398][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-10.44.00:404][848]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-10.44.00:441][848]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-10.44.00:441][848]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2025.02.11-10.44.00:441][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.02.11-10.44.00:443][848]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48
+[2025.02.11-10.44.00:448][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-10.44.00:454][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.02.11-10.44.00:490][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.44.00:490][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.44.00:491][848]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.44.00:504][849]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.02.11-10.44.41:153][234]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.44.41:188][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.44.41:206][236]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.44.41:241][237]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.44.41:271][238]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.46.41:610][998]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.11-10.46.41:610][998]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-10.46.41:610][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-10.47.02:033][222]LogShaderCompilers: Display: ================================================
+[2025.02.11-10.47.02:033][222]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.11-10.47.02:033][222]LogShaderCompilers: Display: Total job queries 956, among them cache hits 525 (54.92%)
+[2025.02.11-10.47.02:033][222]LogShaderCompilers: Display: Tracking 424 distinct input hashes that result in 245 distinct outputs (57.78%)
+[2025.02.11-10.47.02:033][222]LogShaderCompilers: Display: RAM used: 10.68 MiB of 2.40 GiB budget. Usage: 0.43%
+[2025.02.11-10.47.02:033][222]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Shaders Compiled: 424
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Jobs assigned 426, completed 424 (99.53%)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Average time worker was idle: 985.49 s
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Time job spent in pending queue: average 3.06 s, longest 40.03 s
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 35.17 s
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Job life time (pending + execution): average 3.82 s, max 40.54
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 169.92 s
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Jobs were issued in 426 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Average processing rate: 2.50 jobs/sec
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Total thread time: 206.369 s
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Total thread preprocess time: 7.955 s
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Percentage time preprocessing: 3.85%
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Effective parallelization: 1.21 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   60 times, average 0.63 sec, max 0.92 sec, min 0.43 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   61 times, average 0.60 sec, max 1.03 sec, min 0.46 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    3 times, average 0.56 sec, max 0.59 sec, min 0.54 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.53 sec, max 0.55 sec, min 0.51 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 0.52 sec, max 0.54 sec, min 0.51 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.25% of total time (compiled   60 times, average 0.63 sec, max 0.92 sec, min 0.43 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.74% of total time (compiled   61 times, average 0.60 sec, max 1.03 sec, min 0.46 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                                FMeshDecalsVS - 6.00% of total time (compiled   25 times, average 0.50 sec, max 0.60 sec, min 0.37 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.78% of total time (compiled   20 times, average 0.49 sec, max 0.56 sec, min 0.40 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS - 4.20% of total time (compiled   24 times, average 0.36 sec, max 0.45 sec, min 0.28 sec)
+[2025.02.11-10.47.02:034][222]LogShaderCompilers: Display: ================================================
+[2025.02.11-10.47.42:599][785]LogVSAccessor: Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2025.02.11-10.49.14:517][781]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.02.11-10.49.14:772][781]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2025.02.11-10.51.18:843][780]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.11-10.51.18:961][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.18:961][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.18:962][780]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.30:243][478]LogEditorTransaction: Undo Modify Component Location
+[2025.02.11-10.51.30:344][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.30:344][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.30:345][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.36:407][835]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.11-10.51.36:509][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.36:509][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.36:510][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.55:474][ 12]LogEditorTransaction: Undo Modify Component Location
+[2025.02.11-10.51.55:577][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.55:577][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.55:578][ 12]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.56:877][ 72]Cmd: TRANSACTION UNDO
+[2025.02.11-10.51.56:877][ 72]LogEditorTransaction: Undo Modify Component Location
+[2025.02.11-10.51.56:920][ 72]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.56:920][ 72]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.51.56:920][ 72]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.52.02:809][430]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.02.11-10.52.03:140][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.02.11-10.52.03:285][430]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.182 and deleted 35 files with total size 0 MiB and 32 empty folders. Scanned 9674 files in 10691 folders with total size 360 MiB.
+[2025.02.11-10.52.04:401][498]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.52.04:545][498]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.52.04:545][498]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter020EBD7E4C5918E4AA60A08734B9FCAD.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.52.04:556][498]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 1:50 min)
+[2025.02.11-10.52.04:566][498]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.52.04:566][498]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.52.06:116][598]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.52.06:446][598]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_CharacterBaseClass
+[2025.02.11-10.52.06:447][598]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_CharacterBaseClassBB6D7A61437FAEE37F3822A68812CE0C.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_CharacterBaseClass.uasset'
+[2025.02.11-10.52.06:459][598]LogFileHelpers: InternalPromptForCheckoutAndSave took 342 ms (total: 1:50 min)
+[2025.02.11-10.52.06:466][598]AssetCheck: New page: Asset Save: BP_CharacterBaseClass
+[2025.02.11-10.52.06:466][598]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_CharacterBaseClass.BP_CharacterBaseClass
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: ================================================
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Total job queries 962, among them cache hits 525 (54.57%)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Tracking 429 distinct input hashes that result in 249 distinct outputs (58.04%)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: RAM used: 10.78 MiB of 2.40 GiB budget. Usage: 0.44%
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Shaders Compiled: 429
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Jobs assigned 431, completed 429 (99.54%)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Average time worker was idle: 975.44 s
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Time job spent in pending queue: average 3.04 s, longest 40.03 s
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 35.17 s
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Job life time (pending + execution): average 3.81 s, max 40.54
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 171.76 s
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Jobs were issued in 431 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Average processing rate: 2.50 jobs/sec
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Total thread time: 209.969 s
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Total thread preprocess time: 8.466 s
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Percentage time preprocessing: 4.03%
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Effective parallelization: 1.22 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   62 times, average 0.64 sec, max 1.15 sec, min 0.43 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   62 times, average 0.60 sec, max 1.03 sec, min 0.46 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    3 times, average 0.56 sec, max 0.59 sec, min 0.54 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.53 sec, max 0.55 sec, min 0.51 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 0.52 sec, max 0.54 sec, min 0.51 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.85% of total time (compiled   62 times, average 0.64 sec, max 1.15 sec, min 0.43 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 17.73% of total time (compiled   62 times, average 0.60 sec, max 1.03 sec, min 0.46 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                                FMeshDecalsVS - 5.89% of total time (compiled   25 times, average 0.50 sec, max 0.60 sec, min 0.37 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                                 FLumenCardVS - 5.00% of total time (compiled   21 times, average 0.50 sec, max 0.62 sec, min 0.40 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display:                                        FMeshDecalsEmissivePS - 4.13% of total time (compiled   24 times, average 0.36 sec, max 0.45 sec, min 0.28 sec)
+[2025.02.11-10.52.16:105][147]LogShaderCompilers: Display: ================================================
+[2025.02.11-10.52.56:678][471]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.52.56:809][471]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.52.56:809][471]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter6AA9FE6A4375E5E939B797B530EEDBE0.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.52.56:818][471]LogFileHelpers: InternalPromptForCheckoutAndSave took 140 ms (total: 1:50 min)
+[2025.02.11-10.52.56:827][471]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.52.56:827][471]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.53.25:898][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.53.26:025][ 22]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.53.26:025][ 22]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter62A6C18945D4C59C90A2D4B009973FEA.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.53.26:036][ 22]LogFileHelpers: InternalPromptForCheckoutAndSave took 137 ms (total: 1:50 min)
+[2025.02.11-10.53.26:044][ 22]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.53.26:044][ 22]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.53.41:658][ 35]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.02.11-10.53.41:880][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2025.02.11-10.53.42:739][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.53.42:885][ 76]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.53.42:885][ 76]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter390BF5A340C098D8C4DD64B05C3907F2.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.53.42:895][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1:51 min)
+[2025.02.11-10.53.42:903][ 76]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.53.42:903][ 76]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.53.55:951][996]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-10.53.55:995][996]LogFMOD: Display: Loaded bank lookup
+[2025.02.11-10.53.55:995][996]LogFMOD: Display: Loaded asset lookup
+[2025.02.11-10.53.56:002][996]LogFMOD: Default sample rate = 48000
+[2025.02.11-10.53.56:002][996]LogFMOD: System sample rate = 48000
+[2025.02.11-10.53.56:002][996]LogFMOD: Matching system sample rate 48000
+[2025.02.11-10.53.56:029][996]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.11-10.53.56:029][996]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.11-10.53.56:029][996]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.11-10.53.56:066][996]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-10.53.56:066][996]PIE: New page: PIE session: Test (12 Feb 2025, 7:53:56 am)
+[2025.02.11-10.53.56:104][996]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-10.53.56:115][996]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010709s)
+[2025.02.11-10.53.56:115][996]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.010755s)
+[2025.02.11-10.53.56:115][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.53.56:115][996]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-10.53.56:115][996]LogAIModule: Creating AISystem for world Test
+[2025.02.11-10.53.56:116][996]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2025.02.11-10.53.56:148][996]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2025.02.11-10.53.56:153][996]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2025.02.11-10.53.56:153][996]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-10.53.56:153][996]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-10.53.56:153][996]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-10.53.56:153][996]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-10.53.56:153][996]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-10.53.56:153][996]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.11-10.53.56:153][996]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-10.53.56:153][996]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-10.53.56:154][996]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-10.53.56:154][996]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-10.53.56:154][996]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-10.53.56:156][996]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-10.53.56:202][996]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-10.53.56:202][996]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-10.53.56:202][996]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-10.53.56:202][996]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-10.53.56:203][996]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2025.02.11-10.53.56:203][996]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2025.02.11-10.53.56:205][996]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2025.02.11-10.53.56:205][996]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2025.02.11-10.53.56:205][996]LogInit: FAudioDevice initialized with ID 49.
+[2025.02.11-10.53.56:205][996]LogAudio: Display: Audio Device (ID: 49) registered with world 'Test'.
+[2025.02.11-10.53.56:205][996]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2025.02.11-10.53.56:208][996]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.11-10.53.56:211][996]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.11-21.23.56
+[2025.02.11-10.53.56:212][996]LogWorld: Bringing up level for play took: 0.003565
+[2025.02.11-10.53.56:214][996]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2025.02.11-10.53.56:220][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2357.771 Y=1927.764 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.53.56:227][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1924.362 Y=-1801.530 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.53.56:229][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2128.917 Y=-2572.244 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.53.56:231][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1618.231 Y=1813.137 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.53.56:235][996]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2276.322 Y=-2606.165 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.53.56:241][996]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.11-10.53.56:241][996]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.11-10.53.56:242][996]PIE: Server logged in
+[2025.02.11-10.53.56:242][996]PIE: Play in editor total start time 0.275 seconds.
+[2025.02.11-10.53.56:259][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.53.56:260][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.53.56:260][996]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.54.57:703][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-10.54.57:703][716]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-10.54.57:704][716]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-10.54.57:706][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-10.54.57:710][716]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-10.54.57:719][716]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-10.54.57:759][716]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-10.54.57:761][716]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2025.02.11-10.54.57:762][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.02.11-10.54.57:763][716]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49
+[2025.02.11-10.54.57:769][716]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-10.54.57:776][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2025.02.11-10.54.57:813][716]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.54.57:813][716]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.54.57:814][716]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.54.57:823][717]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2025.02.11-10.55.01:810][963]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.55.01:938][963]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.55.01:938][963]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter6266D2CA4F486365424D2B9B80E90123.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.55.01:947][963]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 1:51 min)
+[2025.02.11-10.55.01:955][963]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.55.01:955][963]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.55.18:534][937]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MorphPond/Characters/BP_CharacterBaseClass.BP_CharacterBaseClass
+[2025.02.11-10.55.18:534][937]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.55.18:534][937]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-10.55.55:890][467]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.02.11-10.55.56:822][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2025.02.11-10.55.57:890][489]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.55.58:028][489]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.55.58:029][489]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacterC1DDFD2C43A6943342318BA481A2205C.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.55.58:039][489]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 1:51 min)
+[2025.02.11-10.55.58:047][489]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.55.58:047][489]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.56.05:719][840]LogViewport: Scene viewport resized to 973x875, mode Windowed.
+[2025.02.11-10.57.24:327][129]LogEditorTransaction: Undo Remove Components
+[2025.02.11-10.57.24:636][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.57.24:636][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.57.24:637][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.57.29:242][410]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.02.11-10.57.30:116][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.11-10.57.30:906][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.57.31:042][446]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.57.31:043][446]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacterCC426FAB44529480EE6A96A3DD63B418.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.57.31:053][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 1:51 min)
+[2025.02.11-10.57.31:059][446]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.57.31:059][446]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.57.50:766][719]LogEditorTransaction: Undo Set Scale
+[2025.02.11-10.57.50:869][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.57.50:870][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.57.50:870][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.57.53:005][829]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.57.53:137][829]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.57.53:137][829]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter60D5758F4B216AAFE2645FB8D8713831.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.57.53:148][829]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1:51 min)
+[2025.02.11-10.57.53:157][829]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.57.53:158][829]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.58.13:137][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.58.13:270][ 67]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.58.13:271][ 67]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacterF3D0498E453C831EFC8557986F5783D5.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.58.13:281][ 67]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 1:51 min)
+[2025.02.11-10.58.13:290][ 67]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.58.13:290][ 67]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.58.14:637][148]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.58.14:752][148]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.58.14:753][148]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter224AD6974B06E77E53CC3AB0972FF5D7.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.58.14:764][148]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 1:51 min)
+[2025.02.11-10.58.14:773][148]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.58.14:773][148]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-10.58.19:299][558]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.11-10.58.19:354][558]LogFMOD: Display: Loaded bank lookup
+[2025.02.11-10.58.19:354][558]LogFMOD: Display: Loaded asset lookup
+[2025.02.11-10.58.19:361][558]LogFMOD: Default sample rate = 48000
+[2025.02.11-10.58.19:361][558]LogFMOD: System sample rate = 48000
+[2025.02.11-10.58.19:361][558]LogFMOD: Matching system sample rate 48000
+[2025.02.11-10.58.19:388][558]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.11-10.58.19:388][558]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.11-10.58.19:388][558]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.11-10.58.19:425][558]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.11-10.58.19:425][558]PIE: New page: PIE session: Test (12 Feb 2025, 7:58:19 am)
+[2025.02.11-10.58.19:464][558]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-10.58.19:477][558]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012845s)
+[2025.02.11-10.58.19:477][558]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.012912s)
+[2025.02.11-10.58.19:477][558]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.11-10.58.19:477][558]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.11-10.58.19:478][558]LogAIModule: Creating AISystem for world Test
+[2025.02.11-10.58.19:478][558]LogPlayLevel: PIE: World Init took: (0.000899s)
+[2025.02.11-10.58.19:512][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2025.02.11-10.58.19:521][558]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2025.02.11-10.58.19:521][558]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.11-10.58.19:521][558]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.11-10.58.19:521][558]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.11-10.58.19:521][558]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.11-10.58.19:521][558]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.11-10.58.19:521][558]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.11-10.58.19:521][558]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.11-10.58.19:521][558]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.11-10.58.19:522][558]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.11-10.58.19:522][558]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.11-10.58.19:522][558]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.11-10.58.19:524][558]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.11-10.58.19:570][558]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.11-10.58.19:570][558]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.11-10.58.19:570][558]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.11-10.58.19:570][558]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.11-10.58.19:571][558]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2025.02.11-10.58.19:571][558]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2025.02.11-10.58.19:573][558]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2025.02.11-10.58.19:573][558]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2025.02.11-10.58.19:573][558]LogInit: FAudioDevice initialized with ID 50.
+[2025.02.11-10.58.19:573][558]LogAudio: Display: Audio Device (ID: 50) registered with world 'Test'.
+[2025.02.11-10.58.19:573][558]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2025.02.11-10.58.19:576][558]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.11-10.58.19:579][558]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.11-21.28.19
+[2025.02.11-10.58.19:580][558]LogWorld: Bringing up level for play took: 0.003474
+[2025.02.11-10.58.19:582][558]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2025.02.11-10.58.19:588][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1913.442 Y=-1655.087 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.58.19:590][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2708.337 Y=1532.748 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.58.19:591][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1587.046 Y=-2509.986 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.58.19:599][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1764.389 Y=-2491.172 Z=0.000] for [BP_SmallEnemy_C]
+[2025.02.11-10.58.19:612][558]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.11-10.58.19:612][558]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.11-10.58.19:612][558]PIE: Server logged in
+[2025.02.11-10.58.19:613][558]PIE: Play in editor total start time 0.298 seconds.
+[2025.02.11-10.58.19:630][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.58.19:630][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.58.19:630][558]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.58.37:563][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-10.58.37:563][457]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.11-10.58.37:565][457]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.11-10.58.37:567][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-10.58.37:572][457]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.11-10.58.37:579][457]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.11-10.58.37:615][457]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.11-10.58.37:619][457]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2025.02.11-10.58.37:620][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.02.11-10.58.37:622][457]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50
+[2025.02.11-10.58.37:627][457]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.11-10.58.37:649][457]LogUObjectHash: Compacting FUObjectHashTables data took  16.85ms
+[2025.02.11-10.58.37:684][457]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.58.37:685][457]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.58.37:685][457]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-10.58.37:695][458]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2025.02.11-10.58.59:537][696]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-10.58.59:653][696]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-10.58.59:653][696]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter2863D5904C0A60AB667C3191133CCB1D.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-10.58.59:663][696]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 1:52 min)
+[2025.02.11-10.58.59:673][696]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-10.58.59:673][696]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-11.02.48:537][366]LogEditorTransaction: Undo Break Pin Links
+[2025.02.11-11.02.48:846][366]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-11.02.48:846][366]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-11.02.48:847][366]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.11-11.05.54:845][396]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.02.11-11.05.55:224][396]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.11-11.05.56:845][491]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-11.05.56:988][491]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-11.05.56:988][491]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter5F00323D40B4D4F597E26FA297A211EF.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-11.05.56:998][491]LogFileHelpers: InternalPromptForCheckoutAndSave took 153 ms (total: 1:52 min)
+[2025.02.11-11.05.57:006][491]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-11.05.57:007][491]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-11.06.12:963][556]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2025.02.11-11.06.13:342][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2025.02.11-11.06.14:174][593]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.11-11.06.14:319][593]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.11-11.06.14:319][593]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter4E7F007A4DF914766EB27CB065868CA2.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.11-11.06.14:329][593]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 1:52 min)
+[2025.02.11-11.06.14:337][593]AssetCheck: New page: Asset Save: BP_PlayerCharacter
+[2025.02.11-11.06.14:337][593]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.11-11.52.03:224][923]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.120 and deleted 1 files with total size 0 MiB and 2 empty folders. Scanned 9665 files in 10682 folders with total size 361 MiB.
+[2025.02.11-12.52.03:255][721]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.149 and deleted 0 files with total size 0 MiB and 1 empty folders. Scanned 9664 files in 10680 folders with total size 361 MiB.
+[2025.02.11-13.52.03:244][518]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.137 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-14.52.03:251][315]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-15.52.03:264][113]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.156 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-16.52.03:250][910]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.141 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-17.52.03:253][707]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.143 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-18.52.03:295][505]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.183 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-19.52.03:305][302]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.194 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-20.52.03:249][ 99]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.138 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
+[2025.02.11-21.52.03:255][897]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.142 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9664 files in 10679 folders with total size 361 MiB.
