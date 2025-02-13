@@ -30063,3 +30063,743 @@ Script call stack:
 [2025.02.13-02.18.05:279][366]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2025.02.13-02.18.05:335][367]LogPlayLevel: Display: Destroying online subsystem :Context_168
 [2025.02.13-02.18.32:536][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.02.13-02.21.13:606][ 30]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.02.13-02.21.13:621][ 30]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.02.13-02.21.13:630][ 30]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.02.13-02.21.13:644][ 31]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.02.13-02.21.26:762][208]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_AbilityCrystal
+[2025.02.13-02.21.26:769][208]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MorphPond/Objects/BP_AbilityCrystal.
+[2025.02.13-02.21.26:770][208]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.02.13-02.21.28:665][376]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MorphPond/Objects/BP_AbilityCrystal.BP_AbilityCrystal
+[2025.02.13-02.21.28:666][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.21.28:666][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-02.21.28:891][376]LogViewport: Scene viewport resized to 973x875, mode Windowed.
+[2025.02.13-02.21.46:721][434]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-02.21.46:721][434]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-02.21.47:720][482]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-02.21.47:720][482]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-02.21.52:020][723]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsBP_Enemy_Character
+	BP_FlingJelly_C /Engine/Transient.World_58:PersistentLevel.BP_FlingJelly_C_0
+	Function /Game/MorphPond/Attacks/BP_FlingJelly.BP_FlingJelly_C:ExecuteUbergraph_BP_FlingJelly:0018
+[2025.02.13-02.21.52:021][723]LogScript: Warning: Accessed None
+	BP_FlingJelly_C /Engine/Transient.World_58:PersistentLevel.BP_FlingJelly_C_0
+	Function /Game/MorphPond/Attacks/BP_FlingJelly.BP_FlingJelly_C:ExecuteUbergraph_BP_FlingJelly:002D
+[2025.02.13-02.21.52:032][723]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2025.02.13-02.21.52:032][723]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-02.21.52:032][723]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-02.21.54:677][872]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-02.21.54:677][872]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-02.22.51:861][214]BlueprintLog: New page: Compile BP_AbilityCrystal
+[2025.02.13-02.22.51:936][214]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.02.13-02.22.54:691][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.22.54:762][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MorphPond/Objects/BP_AbilityCrystal" FILE="../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/BP_AbilityCrystal.uasset" SILENT=true
+[2025.02.13-02.22.54:765][369]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/BP_AbilityCrystal
+[2025.02.13-02.22.54:765][369]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_AbilityCrystalCFBE7A7E4B4B2E1BE8B75A8BF4D1D301.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/BP_AbilityCrystal.uasset'
+[2025.02.13-02.22.54:768][369]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MorphPond/Objects/BP_AbilityCrystal.
+[2025.02.13-02.22.54:785][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 2:13 min)
+[2025.02.13-02.22.54:793][369]AssetCheck: New page: Asset Save: BP_AbilityCrystal
+[2025.02.13-02.22.54:793][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/BP_AbilityCrystal.BP_AbilityCrystal
+[2025.02.13-02.23.50:649][809]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.02.13-02.23.50:663][809]LogContentBrowser: Creating deferred item: NewFolder
+[2025.02.13-02.23.50:677][810]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.02.13-02.23.57:861][450]LogContentBrowser: Attempting asset rename: NewFolder -> AbilityCrystals
+[2025.02.13-02.23.57:862][450]LogContentBrowser: End creating deferred item NewFolder
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.BP_AbilityCrystal:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.SKEL_BP_AbilityCrystal_C' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.BP_AbilityCrystal_C' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.BP_AbilityCrystal:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.BP_AbilityCrystal:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.BP_AbilityCrystal:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.SKEL_BP_AbilityCrystal_C:ReceiveBeginPlay' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.SKEL_BP_AbilityCrystal_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.SKEL_BP_AbilityCrystal_C:ReceiveTick' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.SKEL_BP_AbilityCrystal_C:UserConstructionScript' ref from Metadata '/Game/MorphPond/Objects/BP_AbilityCrystal.PackageMetaData'
+[2025.02.13-02.24.01:029][704]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.24.01:098][704]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal
+[2025.02.13-02.24.01:098][704]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_AbilityCrystal129D65A14687233B361B78956F6BA6F9.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.uasset'
+[2025.02.13-02.24.01:101][704]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.
+[2025.02.13-02.24.01:118][704]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2:13 min)
+[2025.02.13-02.24.01:344][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.02.13-02.24.01:384][704]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.02.13-02.24.01:416][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.02.13-02.24.01:445][704]AssetCheck: New page: Asset Save: BP_AbilityCrystal
+[2025.02.13-02.24.01:445][704]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_AbilityCrystal.BP_AbilityCrystal
+[2025.02.13-02.24.04:859][984]LogContentBrowser: Deferred new asset file creation: BP_AbilityCrystal_Child
+[2025.02.13-02.24.04:912][984]LogContentBrowser: Creating deferred item: BP_AbilityCrystal_Child
+[2025.02.13-02.24.04:925][985]LogContentBrowser: Renaming the item being created (Deferred Item: BP_AbilityCrystal_Child).
+[2025.02.13-02.24.41:769][451]LogContentBrowser: Attempting asset rename: BP_AbilityCrystal_Child -> BP_TongueCrystal
+[2025.02.13-02.24.41:776][451]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal.
+[2025.02.13-02.24.41:777][451]LogContentBrowser: End creating deferred item BP_AbilityCrystal_Child
+[2025.02.13-02.24.43:692][625]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal.BP_TongueCrystal
+[2025.02.13-02.24.43:692][625]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.24.43:693][625]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-02.24.43:901][625]LogViewport: Scene viewport resized to 973x875, mode Windowed.
+[2025.02.13-02.26.13:553][240]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.26.19:531][572]LogEditorTransaction: Undo Modify Component Location
+[2025.02.13-02.26.19:661][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:662][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:662][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:663][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:663][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:664][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:664][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:665][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:665][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:666][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.19:672][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:331][702]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.13-02.26.22:351][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:352][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:352][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:353][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:353][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:354][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:354][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:355][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:355][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:356][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.22:366][702]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:916][171]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.26.30:993][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:994][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:994][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:995][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:995][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:996][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:996][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:997][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:998][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.30:998][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.26.31:005][171]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:554][274]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.27.43:676][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:677][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:678][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:678][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:679][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:679][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:680][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:680][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:681][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:681][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.27.43:688][274]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:837][408]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.28.03:909][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:910][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:910][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:911][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:911][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:912][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:912][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:913][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:913][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:914][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.03:920][408]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:667][534]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.28.42:791][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:792][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:792][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:793][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:793][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:794][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:794][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:795][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:795][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:796][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.28.42:802][534]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.48:972][707]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.30.49:106][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:106][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:107][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:107][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:108][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:108][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:109][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:109][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:110][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:110][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.30.49:117][707]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:123][769]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.32.21:252][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:253][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:253][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:254][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:254][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:255][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:255][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:256][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:256][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:257][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.32.21:263][769]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:506][ 24]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.33.01:586][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:587][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:587][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:588][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:588][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:589][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:589][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:590][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:590][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:591][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.01:598][ 24]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: ================================================
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Total job queries 1,039, among them cache hits 525 (50.53%)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Tracking 504 distinct input hashes that result in 290 distinct outputs (57.54%)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: RAM used: 12.41 MiB of 2.40 GiB budget. Usage: 0.50%
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Shaders Compiled: 504
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Jobs assigned 506, completed 504 (99.60%)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Average time worker was idle: 1397.91 s
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Time job spent in pending queue: average 2.74 s, longest 40.03 s
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 35.17 s
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Job life time (pending + execution): average 3.51 s, max 40.54
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 202.30 s
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Jobs were issued in 506 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Average processing rate: 2.49 jobs/sec
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Total thread time: 248.691 s
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Total thread preprocess time: 9.93 s
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Percentage time preprocessing: 3.99%
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Effective parallelization: 1.23 (times faster than compiling all shaders on one thread). Compare with number of workers: 2
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   79 times, average 0.65 sec, max 1.15 sec, min 0.43 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   79 times, average 0.61 sec, max 1.03 sec, min 0.46 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    5 times, average 0.54 sec, max 0.59 sec, min 0.44 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    7 times, average 0.53 sec, max 0.62 sec, min 0.42 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: TBasePassPSFSelfShadowedCachedPointIndirectLightingPolicySkylight (compiled    8 times, average 0.52 sec, max 0.54 sec, min 0.51 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.68% of total time (compiled   79 times, average 0.65 sec, max 1.15 sec, min 0.43 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 19.45% of total time (compiled   79 times, average 0.61 sec, max 1.03 sec, min 0.46 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.71% of total time (compiled   33 times, average 0.51 sec, max 0.62 sec, min 0.40 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 5.24% of total time (compiled   33 times, average 0.39 sec, max 0.49 sec, min 0.34 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display:                                                FMeshDecalsVS - 4.98% of total time (compiled   25 times, average 0.50 sec, max 0.60 sec, min 0.37 sec)
+[2025.02.13-02.33.20:734][ 17]LogShaderCompilers: Display: ================================================
+[2025.02.13-02.34.49:468][430]LogEditorTransaction: Undo Set Location
+[2025.02.13-02.34.49:600][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:601][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:601][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:602][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:602][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:603][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:603][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:604][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:604][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:605][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.49:611][430]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:017][802]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.13-02.34.57:149][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:150][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:150][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:151][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:151][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:152][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:152][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:153][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:153][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:154][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.34.57:161][802]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:049][981]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.35.36:133][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:133][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:135][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:135][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:136][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:136][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:137][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:137][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:138][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:138][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.35.36:145][981]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.38:949][592]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.36.39:031][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:032][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:032][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:033][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:033][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:033][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:034][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:034][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:035][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:035][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.36.39:042][592]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:796][725]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.37.16:863][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:864][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:864][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:865][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:865][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:866][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:866][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:867][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:867][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:868][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.16:875][725]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:296][116]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.37.24:362][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:363][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:364][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:364][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:364][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:365][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:365][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:366][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:366][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:367][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.24:374][116]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:849][867]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.37.55:929][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:930][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:930][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:931][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:931][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:932][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:932][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:933][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:933][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:934][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.55:941][867]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:507][929]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.37.57:534][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:535][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:536][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:536][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:537][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:537][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:538][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:538][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:539][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:539][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.37.57:546][929]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:208][819]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.38.31:279][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:280][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:280][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:281][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:281][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:282][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:282][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:282][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:283][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:284][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.31:291][819]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.32:990][891]LogEditorTransaction: Undo Modify Component Scale
+[2025.02.13-02.38.33:017][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:018][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:019][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:019][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:020][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:020][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:021][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:021][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:022][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:022][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.33:031][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.38.50:607][852]BlueprintLog: New page: Compile BP_TongueCrystal
+[2025.02.13-02.38.50:728][852]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.02.13-02.38.51:633][890]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.38.51:702][890]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal
+[2025.02.13-02.38.51:703][890]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_TongueCrystalC9E4E8A6430A8ADD1F9B568CB19579E9.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal.uasset'
+[2025.02.13-02.38.51:704][890]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal.
+[2025.02.13-02.38.51:722][890]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 2:13 min)
+[2025.02.13-02.38.51:730][890]AssetCheck: New page: Asset Save: BP_TongueCrystal
+[2025.02.13-02.38.51:730][890]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal.BP_TongueCrystal
+[2025.02.13-02.40.19:448][ 80]LogContentBrowser: Deferred new asset file creation: BP_TongueCrystal1
+[2025.02.13-02.40.19:474][ 80]LogContentBrowser: Creating deferred item: BP_TongueCrystal1
+[2025.02.13-02.40.19:488][ 81]LogContentBrowser: Renaming the item being created (Deferred Item: BP_TongueCrystal1).
+[2025.02.13-02.40.30:600][120]LogContentBrowser: Attempting asset rename: BP_TongueCrystal1 -> BP_SlingCrystal
+[2025.02.13-02.40.30:637][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2025.02.13-02.40.30:655][120]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal.
+[2025.02.13-02.40.30:656][120]LogContentBrowser: End creating deferred item BP_TongueCrystal1
+[2025.02.13-02.40.30:656][120]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.40.32:441][263]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal.BP_SlingCrystal
+[2025.02.13-02.40.32:442][263]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.40.32:442][263]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-02.40.34:734][385]LogViewport: Scene viewport resized to 973x875, mode Windowed.
+[2025.02.13-02.42.09:071][244]LogEditorTransaction: Undo Detach Component
+[2025.02.13-02.42.09:191][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:191][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:192][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:192][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:193][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:193][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:194][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:194][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:195][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:195][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.09:204][244]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:231][281]LogEditorTransaction: Undo Attach Component
+[2025.02.13-02.42.10:256][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:257][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:257][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:258][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:258][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:258][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:259][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:259][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:260][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:260][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.10:267][281]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:381][739]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.13-02.42.19:458][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:458][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:459][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:459][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:460][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:461][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:461][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:462][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:462][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:463][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.19:470][739]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:622][891]LogEditorTransaction: Undo Modify Component(s)
+[2025.02.13-02.42.22:647][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:647][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:648][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:648][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:649][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:649][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:650][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:650][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:651][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:651][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.42.22:658][891]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:754][423]Cmd: TRANSACTION UNDO
+[2025.02.13-02.43.08:754][423]LogEditorTransaction: Undo Duplicate Component
+[2025.02.13-02.43.08:889][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:890][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:890][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:891][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:891][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:892][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:892][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:893][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:893][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:894][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.08:901][423]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.43.37:597][942]BlueprintLog: New page: Compile BP_SlingCrystal
+[2025.02.13-02.43.37:682][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2025.02.13-02.43.38:613][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.43.38:682][981]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal
+[2025.02.13-02.43.38:682][981]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_SlingCrystalC318069A498424EC8AB1D39934990EF9.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal.uasset'
+[2025.02.13-02.43.38:682][981]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal.
+[2025.02.13-02.43.38:698][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2:13 min)
+[2025.02.13-02.43.38:706][981]AssetCheck: New page: Asset Save: BP_SlingCrystal
+[2025.02.13-02.43.38:706][981]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal.BP_SlingCrystal
+[2025.02.13-02.44.15:137][169]LogContentBrowser: Deferred new asset file creation: BP_TongueCrystal1
+[2025.02.13-02.44.15:152][169]LogContentBrowser: Creating deferred item: BP_TongueCrystal1
+[2025.02.13-02.44.15:166][170]LogContentBrowser: Renaming the item being created (Deferred Item: BP_TongueCrystal1).
+[2025.02.13-02.44.16:049][251]LogContentBrowser: Attempting asset rename: BP_TongueCrystal1 -> BP_TongueCrystal1
+[2025.02.13-02.44.16:087][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.02.13-02.44.16:105][251]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.
+[2025.02.13-02.44.16:106][251]LogContentBrowser: End creating deferred item BP_TongueCrystal1
+[2025.02.13-02.44.16:106][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.44.16:223][255]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.BP_TongueCrystal1
+[2025.02.13-02.44.16:224][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.44.16:224][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-02.44.17:951][337]LogViewport: Scene viewport resized to 973x875, mode Windowed.
+[2025.02.13-02.45.01:721][608]BlueprintLog: New page: Compile BP_TongueCrystal1
+[2025.02.13-02.45.01:780][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.02.13-02.45.02:562][642]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.45.02:647][642]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1
+[2025.02.13-02.45.02:647][642]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_TongueCrystal173DEF31B4029F07A5169F4A87C9C29D1.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.uasset'
+[2025.02.13-02.45.02:648][642]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.
+[2025.02.13-02.45.02:665][642]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 2:13 min)
+[2025.02.13-02.45.02:673][642]AssetCheck: New page: Asset Save: BP_TongueCrystal1
+[2025.02.13-02.45.02:673][642]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.BP_TongueCrystal1
+[2025.02.13-02.45.21:134][ 96]LogContentBrowser: Attempting asset rename: BP_TongueCrystal1 -> BP_TempCrystal
+[2025.02.13-02.45.21:159][ 96]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.SKEL_BP_TempCrystal_C' ref from Metadata '/Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.PackageMetaData'
+[2025.02.13-02.45.21:159][ 96]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.BP_TempCrystal_C' ref from Metadata '/Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.PackageMetaData'
+[2025.02.13-02.45.21:159][ 96]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.SKEL_BP_TempCrystal_C:ReceiveBeginPlay' ref from Metadata '/Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.PackageMetaData'
+[2025.02.13-02.45.21:159][ 96]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.SKEL_BP_TempCrystal_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.PackageMetaData'
+[2025.02.13-02.45.21:159][ 96]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.SKEL_BP_TempCrystal_C:ReceiveTick' ref from Metadata '/Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.PackageMetaData'
+[2025.02.13-02.45.21:159][ 96]LogMetaData: Removing '/Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.SKEL_BP_TempCrystal_C:UserConstructionScript' ref from Metadata '/Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal1.PackageMetaData'
+[2025.02.13-02.45.21:159][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.45.21:222][ 96]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal
+[2025.02.13-02.45.21:222][ 96]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_TempCrystalA3BE599B499FD19240887595325236DD.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.uasset'
+[2025.02.13-02.45.21:225][ 96]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.
+[2025.02.13-02.45.21:244][ 96]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 2:13 min)
+[2025.02.13-02.45.21:293][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2025.02.13-02.45.21:328][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.02.13-02.45.21:360][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.02.13-02.45.21:371][ 96]AssetCheck: New page: Asset Save: BP_TempCrystal
+[2025.02.13-02.45.21:371][ 96]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.BP_TempCrystal
+[2025.02.13-02.45.21:371][ 96]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.45.23:074][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.45.23:135][253]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal
+[2025.02.13-02.45.23:136][253]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_TempCrystal5D757D634063121F2D9F80883B3AFAD0.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.uasset'
+[2025.02.13-02.45.23:150][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2:13 min)
+[2025.02.13-02.45.23:159][253]AssetCheck: New page: Asset Save: BP_TempCrystal
+[2025.02.13-02.45.23:159][253]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.BP_TempCrystal
+[2025.02.13-02.51.39:994][ 36]BlueprintLog: New page: Compile BP_CharacterBaseClass
+[2025.02.13-02.51.41:219][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.02.13-02.51.41:504][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.51.41:505][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.51.41:506][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.51.41:506][ 36]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.52.08:394][470]LogDerivedDataCache: C:/Users/thefl/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:18.139 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9557 files in 10581 folders with total size 358 MiB.
+[2025.02.13-02.53.22:655][478]BlueprintLog: New page: Compile BP_CharacterBaseClass
+[2025.02.13-02.53.24:223][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.02.13-02.53.24:539][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.53.24:539][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.53.24:540][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.53.24:540][478]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.13:036][194]BlueprintLog: New page: Compile BP_TongueCrystal
+[2025.02.13-02.59.13:145][194]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2025.02.13-02.59.14:301][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.59.14:379][270]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal
+[2025.02.13-02.59.14:379][270]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_TongueCrystal623851064D9DAE4F418FBAA9CA67DAE0.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal.uasset'
+[2025.02.13-02.59.14:399][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 98 ms (total: 2:13 min)
+[2025.02.13-02.59.14:407][270]AssetCheck: New page: Asset Save: BP_TongueCrystal
+[2025.02.13-02.59.14:408][270]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TongueCrystal.BP_TongueCrystal
+[2025.02.13-02.59.26:844][894]BlueprintLog: New page: Compile BP_SlingCrystal
+[2025.02.13-02.59.26:926][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2025.02.13-02.59.28:221][954]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.59.28:281][954]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal
+[2025.02.13-02.59.28:282][954]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_SlingCrystal832926354F0A44644DD171A84790AE76.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal.uasset'
+[2025.02.13-02.59.28:296][954]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 2:13 min)
+[2025.02.13-02.59.28:305][954]AssetCheck: New page: Asset Save: BP_SlingCrystal
+[2025.02.13-02.59.28:305][954]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_SlingCrystal.BP_SlingCrystal
+[2025.02.13-02.59.38:524][503]BlueprintLog: New page: Compile BP_TempCrystal
+[2025.02.13-02.59.38:594][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.02.13-02.59.39:405][537]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-02.59.39:478][537]LogSavePackage: Moving output files for package: /Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal
+[2025.02.13-02.59.39:479][537]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_TempCrystalA3327EE0480703CF7D35EEAB47EA5BE9.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.uasset'
+[2025.02.13-02.59.39:494][537]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2:13 min)
+[2025.02.13-02.59.39:503][537]AssetCheck: New page: Asset Save: BP_TempCrystal
+[2025.02.13-02.59.39:503][537]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Objects/AbilityCrystals/BP_TempCrystal.BP_TempCrystal
+[2025.02.13-02.59.46:950][  4]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.13-02.59.47:006][  4]LogFMOD: Display: Loaded bank lookup
+[2025.02.13-02.59.47:006][  4]LogFMOD: Display: Loaded asset lookup
+[2025.02.13-02.59.47:015][  4]LogFMOD: Default sample rate = 48000
+[2025.02.13-02.59.47:015][  4]LogFMOD: System sample rate = 48000
+[2025.02.13-02.59.47:015][  4]LogFMOD: Matching system sample rate 48000
+[2025.02.13-02.59.47:046][  4]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.13-02.59.47:046][  4]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.13-02.59.47:046][  4]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.13-02.59.47:086][  4]BlueprintLog: New page: Pre-Play auto-recompile
+[2025.02.13-02.59.48:911][  4]LogPlayLevel: [PlayLevel] Compiling BP_EnemyCharacter before play...
+[2025.02.13-02.59.48:911][  4]LogPlayLevel: [PlayLevel]   Compiling BP_En_Gwump as a dependent...
+[2025.02.13-02.59.48:911][  4]LogPlayLevel: [PlayLevel]   Compiling BP_En_GwumpPole as a dependent...
+[2025.02.13-02.59.48:911][  4]LogPlayLevel: [PlayLevel]   Compiling BP_En_Slag as a dependent...
+[2025.02.13-02.59.48:911][  4]LogPlayLevel: [PlayLevel]   Compiling BP_En_SmallEnemy as a dependent...
+[2025.02.13-02.59.48:911][  4]LogPlayLevel: [PlayLevel]   Compiling BP_En_Tarp as a dependent...
+[2025.02.13-02.59.48:911][  4]LogPlayLevel: [PlayLevel]   Compiling BP_En_Thrasher as a dependent...
+[2025.02.13-02.59.50:195][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2025.02.13-02.59.50:202][  4]LogPlayLevel: PlayLevel: Blueprint regeneration took 3116 ms (7 blueprints)
+[2025.02.13-02.59.50:202][  4]PIE: New page: PIE session: Test (13 Feb 2025, 11:59:50 pm)
+[2025.02.13-02.59.50:234][  4]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.13-02.59.50:257][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022162s)
+[2025.02.13-02.59.50:257][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.022224s)
+[2025.02.13-02.59.50:257][  4]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-02.59.50:257][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-02.59.50:257][  4]LogAIModule: Creating AISystem for world Test
+[2025.02.13-02.59.50:258][  4]LogPlayLevel: PIE: World Init took: (0.000975s)
+[2025.02.13-02.59.50:289][  4]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2025.02.13-02.59.50:292][  4]LogAudio: Display: Creating Audio Device:                 Id: 111, Scope: Unique, Realtime: True
+[2025.02.13-02.59.50:292][  4]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.13-02.59.50:292][  4]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.13-02.59.50:292][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.13-02.59.50:292][  4]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.13-02.59.50:293][  4]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.13-02.59.50:293][  4]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.13-02.59.50:293][  4]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.13-02.59.50:293][  4]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.13-02.59.50:293][  4]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.13-02.59.50:293][  4]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.13-02.59.50:293][  4]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.13-02.59.50:296][  4]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.13-02.59.50:346][  4]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.13-02.59.50:347][  4]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.13-02.59.50:347][  4]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.13-02.59.50:347][  4]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.13-02.59.50:348][  4]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=111
+[2025.02.13-02.59.50:348][  4]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=111
+[2025.02.13-02.59.50:349][  4]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=111
+[2025.02.13-02.59.50:349][  4]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=111
+[2025.02.13-02.59.50:350][  4]LogInit: FAudioDevice initialized with ID 111.
+[2025.02.13-02.59.50:350][  4]LogAudio: Display: Audio Device (ID: 111) registered with world 'Test'.
+[2025.02.13-02.59.50:350][  4]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 111
+[2025.02.13-02.59.50:359][  4]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.13-02.59.50:364][  4]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.13-13.29.50
+[2025.02.13-02.59.50:366][  4]LogWorld: Bringing up level for play took: 0.006662
+[2025.02.13-02.59.50:369][  4]LogOnline: OSS: Created online subsystem instance for: :Context_177
+[2025.02.13-02.59.50:377][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2349.612 Y=-1381.610 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-02.59.50:381][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1741.419 Y=1427.779 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-02.59.50:383][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1884.612 Y=2476.502 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-02.59.50:386][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2054.356 Y=1805.721 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-02.59.50:388][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2268.199 Y=-1661.312 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-02.59.50:389][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2100.592 Y=1621.694 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-02.59.50:391][  4]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2556.344 Y=-1466.345 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-02.59.50:405][  4]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.13-02.59.50:405][  4]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.13-02.59.50:405][  4]PIE: Server logged in
+[2025.02.13-02.59.50:406][  4]PIE: Play in editor total start time 3.44 seconds.
+[2025.02.13-02.59.50:432][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:433][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:433][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:434][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:434][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:435][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:435][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:436][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:436][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:437][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-02.59.50:445][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.02:792][985]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.03:804][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.03:805][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.07:827][392]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.08:830][476]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.17:889][239]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.29:974][226]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.37:017][833]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:244][459]LogNet: Browse: /Game/MorphPond/Maps/Test
+[2025.02.13-03.00.55:245][459]LogLoad: LoadMap: /Game/MorphPond/Maps/Test
+[2025.02.13-03.00.55:245][459]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.13-03.00.55:263][459]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-03.00.55:264][459]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-03.00.55:346][459]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.13-03.00.55:359][459]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2025.02.13-03.00.55:369][459]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.13-03.00.55:392][459]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022043s)
+[2025.02.13-03.00.55:392][459]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.022131s)
+[2025.02.13-03.00.55:392][459]LogAudio: Display: Audio Device (ID: 111) registered with world 'Test'.
+[2025.02.13-03.00.55:392][459]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-03.00.55:392][459]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-03.00.55:392][459]LogAIModule: Creating AISystem for world Test
+[2025.02.13-03.00.55:392][459]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2025.02.13-03.00.55:393][459]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.13-03.00.55:397][459]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.13-13.30.55
+[2025.02.13-03.00.55:398][459]LogWorld: Bringing up level for play took: 0.005460
+[2025.02.13-03.00.55:406][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2275.203 Y=-1895.832 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.00.55:407][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2282.467 Y=1484.178 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.00.55:413][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1863.967 Y=2516.054 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.00.55:415][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2105.001 Y=-1329.607 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.00.55:416][459]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1478.003 Y=-2437.200 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.00.55:434][459]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_1' was already added to the screen.
+[2025.02.13-03.00.55:434][459]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.13-03.00.55:435][459]LogLoad: Took 0.190029 seconds to LoadMap(/Game/MorphPond/Maps/UEDPIE_0_Test)
+[2025.02.13-03.00.55:457][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:458][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:459][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:459][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:460][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:460][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:461][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:461][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:462][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:462][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.00.55:470][459]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.02:238][973]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.03:243][ 50]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.11:315][635]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.13:333][781]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.14:342][857]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.19:383][235]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.22:409][476]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.50:571][750]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.51:581][839]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:123][130]LogNet: Browse: /Game/MorphPond/Maps/Test
+[2025.02.13-03.01.55:123][130]LogLoad: LoadMap: /Game/MorphPond/Maps/Test
+[2025.02.13-03.01.55:123][130]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.13-03.01.55:141][130]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-03.01.55:142][130]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-03.01.55:237][130]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.13-03.01.55:248][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.02.13-03.01.55:259][130]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.13-03.01.55:281][130]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021778s)
+[2025.02.13-03.01.55:281][130]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.021843s)
+[2025.02.13-03.01.55:281][130]LogAudio: Display: Audio Device (ID: 111) registered with world 'Test'.
+[2025.02.13-03.01.55:281][130]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.13-03.01.55:281][130]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.13-03.01.55:281][130]LogAIModule: Creating AISystem for world Test
+[2025.02.13-03.01.55:282][130]LogPlayLevel: PIE: World Init took: (0.000867s)
+[2025.02.13-03.01.55:282][130]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.13-03.01.55:286][130]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.13-13.31.55
+[2025.02.13-03.01.55:287][130]LogWorld: Bringing up level for play took: 0.005580
+[2025.02.13-03.01.55:302][130]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1987.556 Y=-2594.629 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.01.55:304][130]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2298.855 Y=1698.875 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.01.55:305][130]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2656.918 Y=-2510.261 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.01.55:307][130]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2520.409 Y=-1856.692 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.01.55:308][130]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2265.839 Y=-1333.910 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.13-03.01.55:324][130]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_2' was already added to the screen.
+[2025.02.13-03.01.55:324][130]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.13-03.01.55:324][130]LogLoad: Took 0.201678 seconds to LoadMap(/Game/MorphPond/Maps/UEDPIE_0_Test)
+[2025.02.13-03.01.55:348][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:348][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:349][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:350][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:350][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:351][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:351][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:352][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:352][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:353][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.01.55:360][130]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.02:760][714]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.03:772][791]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.12:851][453]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.17:964][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-03.02.17:964][835]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.13-03.02.17:967][835]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.13-03.02.17:969][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-03.02.17:977][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.13-03.02.17:985][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.13-03.02.18:024][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.13-03.02.18:025][835]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 111
+[2025.02.13-03.02.18:025][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=111
+[2025.02.13-03.02.18:027][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=111
+[2025.02.13-03.02.18:043][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2025.02.13-03.02.18:085][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:086][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:086][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:087][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:087][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:088][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:088][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:089][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:089][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:090][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:096][835]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.13-03.02.18:188][836]LogPlayLevel: Display: Destroying online subsystem :Context_177
+[2025.02.13-03.02.18:705][871]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-03.02.18:762][871]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MorphPond/Maps/Test" FILE="../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.13-03.02.18:796][871]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.02.13-03.02.18:869][871]LogSavePackage: Moving output files for package: /Game/MorphPond/Maps/Test
+[2025.02.13-03.02.18:869][871]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/Test35F222344285BBE2B0FAF18A156BC9A1.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap'
+[2025.02.13-03.02.18:885][871]LogFileHelpers: Saving map 'Test' took 0.124
+[2025.02.13-03.02.18:909][871]LogFileHelpers: InternalPromptForCheckoutAndSave took 204 ms (total: 2:14 min)
+[2025.02.13-03.02.18:920][871]AssetCheck: New page: Asset Save: Test
+[2025.02.13-03.02.18:920][871]LogContentValidation: Display: Validating /Script/Engine.World /Game/MorphPond/Maps/Test.Test
+[2025.02.13-03.02.21:129][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.02.13-03.02.21:135][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.13-03.02.21:317][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/Enemy/BP_EnemyCharacter
+[2025.02.13-03.02.21:317][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_EnemyCharacter2BDA509C41CE1161824AB596769DABE5.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/Enemy/BP_EnemyCharacter.uasset'
+[2025.02.13-03.02.21:584][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_CharacterBaseClass
+[2025.02.13-03.02.21:585][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_CharacterBaseClass2854BA9444B6321B3079CB9846C003CE.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_CharacterBaseClass.uasset'
+[2025.02.13-03.02.21:672][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_PlayerCharacter
+[2025.02.13-03.02.21:673][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_PlayerCharacter5D017BFF458ED2E1D071F1B9CAD3C4BC.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_PlayerCharacter.uasset'
+[2025.02.13-03.02.21:694][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/Enemy/Smallenemy/BP_En_SmallEnemy
+[2025.02.13-03.02.21:694][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_En_SmallEnemyB2E149F640EB94D4901597BE22281967.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/Enemy/Smallenemy/BP_En_SmallEnemy.uasset'
+[2025.02.13-03.02.21:712][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/Enemy/Smallenemy/BP_En_Tarp
+[2025.02.13-03.02.21:713][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_En_TarpAFC87EC3423F104F885193A44D2E7441.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/Enemy/Smallenemy/BP_En_Tarp.uasset'
+[2025.02.13-03.02.21:735][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/Enemy/Smallenemy/BP_En_GwumpPole
+[2025.02.13-03.02.21:735][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_En_GwumpPoleDDA818F74CC2025C3F387E8E01B790EE.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/Enemy/Smallenemy/BP_En_GwumpPole.uasset'
+[2025.02.13-03.02.21:757][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/Enemy/Gwump/BP_En_Gwump
+[2025.02.13-03.02.21:757][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_En_Gwump26D94CAA4A5A1E6D275485B224A60A72.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/Enemy/Gwump/BP_En_Gwump.uasset'
+[2025.02.13-03.02.21:782][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/Enemy/Cannonball/BP_En_Slag
+[2025.02.13-03.02.21:782][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_En_SlagDDA18AD84EEF2D93F9C749B906000DDD.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/Enemy/Cannonball/BP_En_Slag.uasset'
+[2025.02.13-03.02.21:803][ 47]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/Enemy/Thrasher/BP_En_Thrasher
+[2025.02.13-03.02.21:804][ 47]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_En_Thrasher370116734B974C0FED0D53A785FA92A2.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/Enemy/Thrasher/BP_En_Thrasher.uasset'
+[2025.02.13-03.02.21:820][ 47]LogFileHelpers: InternalPromptForCheckoutAndSave took 684 ms (total: 2:14 min)
+[2025.02.13-03.02.21:832][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_CharacterBaseClass.BP_CharacterBaseClass
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_PlayerCharacter.BP_PlayerCharacter
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/BP_EnemyCharacter.BP_EnemyCharacter
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Cannonball/BP_En_Slag.BP_En_Slag
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Gwump/BP_En_Gwump.BP_En_Gwump
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Smallenemy/BP_En_SmallEnemy.BP_En_SmallEnemy
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Thrasher/BP_En_Thrasher.BP_En_Thrasher
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Smallenemy/BP_En_Tarp.BP_En_Tarp
+[2025.02.13-03.02.21:832][ 47]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/Enemy/Smallenemy/BP_En_GwumpPole.BP_En_GwumpPole
