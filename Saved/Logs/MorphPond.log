@@ -33993,3 +33993,394 @@ Make sure 'BP_AbilityCrystal_C' has been compiled for  Get Special Ability
 [2025.02.14-05.39.19:944][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 218 ms (total: 2:23 min)
 [2025.02.14-05.39.19:953][720]AssetCheck: New page: Asset Save: Test
 [2025.02.14-05.39.19:953][720]LogContentValidation: Display: Validating /Script/Engine.World /Game/MorphPond/Maps/Test.Test
+[2025.02.14-05.40.49:905][441]BlueprintLog: New page: Compile BP_CharacterBaseClass
+[2025.02.14-05.40.54:415][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.02.14-05.40.54:708][441]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.40.54:709][441]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.03:843][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.14-05.41.04:176][820]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_CharacterBaseClass
+[2025.02.14-05.41.04:176][820]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_CharacterBaseClassAB413B34447197C7760B569043B08F3E.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_CharacterBaseClass.uasset'
+[2025.02.14-05.41.04:194][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 351 ms (total: 2:24 min)
+[2025.02.14-05.41.04:205][820]AssetCheck: New page: Asset Save: BP_CharacterBaseClass
+[2025.02.14-05.41.04:205][820]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_CharacterBaseClass.BP_CharacterBaseClass
+[2025.02.14-05.41.06:317][963]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.14-05.41.06:370][963]LogFMOD: Display: Loaded bank lookup
+[2025.02.14-05.41.06:370][963]LogFMOD: Display: Loaded asset lookup
+[2025.02.14-05.41.06:377][963]LogFMOD: Default sample rate = 48000
+[2025.02.14-05.41.06:377][963]LogFMOD: System sample rate = 48000
+[2025.02.14-05.41.06:377][963]LogFMOD: Matching system sample rate 48000
+[2025.02.14-05.41.06:402][963]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.14-05.41.06:403][963]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.14-05.41.06:403][963]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.14-05.41.06:440][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.14-05.41.06:440][963]PIE: New page: PIE session: Test (15 Feb 2025, 2:41:06 am)
+[2025.02.14-05.41.06:479][963]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.41.06:502][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023121s)
+[2025.02.14-05.41.06:502][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.023187s)
+[2025.02.14-05.41.06:502][963]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-05.41.06:502][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-05.41.06:502][963]LogAIModule: Creating AISystem for world Test
+[2025.02.14-05.41.06:503][963]LogPlayLevel: PIE: World Init took: (0.000893s)
+[2025.02.14-05.41.06:547][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.02.14-05.41.06:555][963]LogAudio: Display: Creating Audio Device:                 Id: 126, Scope: Unique, Realtime: True
+[2025.02.14-05.41.06:555][963]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.14-05.41.06:555][963]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.14-05.41.06:555][963]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.14-05.41.06:555][963]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.14-05.41.06:555][963]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.14-05.41.06:555][963]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.14-05.41.06:555][963]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.14-05.41.06:555][963]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.14-05.41.06:556][963]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.14-05.41.06:556][963]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.14-05.41.06:556][963]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.14-05.41.06:558][963]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.14-05.41.06:603][963]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.14-05.41.06:603][963]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.14-05.41.06:603][963]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.14-05.41.06:603][963]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.14-05.41.06:604][963]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=126
+[2025.02.14-05.41.06:604][963]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=126
+[2025.02.14-05.41.06:606][963]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=126
+[2025.02.14-05.41.06:606][963]LogInit: FAudioDevice initialized with ID 126.
+[2025.02.14-05.41.06:606][963]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=126
+[2025.02.14-05.41.06:606][963]LogAudio: Display: Audio Device (ID: 126) registered with world 'Test'.
+[2025.02.14-05.41.06:606][963]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 126
+[2025.02.14-05.41.06:609][963]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.14-05.41.06:614][963]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.14-16.11.06
+[2025.02.14-05.41.06:616][963]LogWorld: Bringing up level for play took: 0.006337
+[2025.02.14-05.41.06:618][963]LogOnline: OSS: Created online subsystem instance for: :Context_209
+[2025.02.14-05.41.06:626][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1791.226 Y=1875.852 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.06:628][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2176.618 Y=-1703.611 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.06:629][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2001.406 Y=-1175.107 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.06:631][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1464.362 Y=-1980.795 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.06:632][963]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2464.881 Y=-2454.321 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.06:658][963]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.14-05.41.06:658][963]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.14-05.41.06:659][963]PIE: Server logged in
+[2025.02.14-05.41.06:659][963]PIE: Play in editor total start time 0.326 seconds.
+[2025.02.14-05.41.06:695][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:696][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:697][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:697][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:697][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:698][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:699][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:699][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:700][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:706][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.06:707][963]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:668][335]LogNet: Browse: /Game/MorphPond/Maps/Test
+[2025.02.14-05.41.52:668][335]LogLoad: LoadMap: /Game/MorphPond/Maps/Test
+[2025.02.14-05.41.52:668][335]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.41.52:693][335]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-05.41.52:695][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.41.52:737][335]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.14-05.41.52:755][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.02.14-05.41.52:765][335]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.41.52:788][335]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022110s)
+[2025.02.14-05.41.52:788][335]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.022206s)
+[2025.02.14-05.41.52:788][335]LogAudio: Display: Audio Device (ID: 126) registered with world 'Test'.
+[2025.02.14-05.41.52:788][335]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-05.41.52:788][335]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-05.41.52:788][335]LogAIModule: Creating AISystem for world Test
+[2025.02.14-05.41.52:789][335]LogPlayLevel: PIE: World Init took: (0.001042s)
+[2025.02.14-05.41.52:789][335]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.14-05.41.52:793][335]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.14-16.11.52
+[2025.02.14-05.41.52:794][335]LogWorld: Bringing up level for play took: 0.005444
+[2025.02.14-05.41.52:805][335]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2646.506 Y=-1885.806 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.52:810][335]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2581.029 Y=1243.387 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.52:812][335]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2691.125 Y=2033.786 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.41.52:837][335]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_1' was already added to the screen.
+[2025.02.14-05.41.52:837][335]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.14-05.41.52:837][335]LogLoad: Took 0.169393 seconds to LoadMap(/Game/MorphPond/Maps/UEDPIE_0_Test)
+[2025.02.14-05.41.52:866][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:866][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:867][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:867][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:868][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:868][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:869][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:869][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:870][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:877][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.52:878][335]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:526][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.14-05.41.53:526][369]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.41.53:530][369]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-05.41.53:533][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.41.53:542][369]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.14-05.41.53:549][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.41.53:586][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.14-05.41.53:586][369]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 126
+[2025.02.14-05.41.53:586][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=126
+[2025.02.14-05.41.53:587][369]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=126
+[2025.02.14-05.41.53:593][369]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.14-05.41.53:598][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2025.02.14-05.41.53:641][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:642][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:642][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:643][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:643][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:644][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:644][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:645][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:645][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:652][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:652][369]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.41.53:664][370]LogPlayLevel: Display: Destroying online subsystem :Context_209
+[2025.02.14-05.44.28:518][115]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.14-05.44.28:560][115]LogFMOD: Display: Loaded bank lookup
+[2025.02.14-05.44.28:560][115]LogFMOD: Display: Loaded asset lookup
+[2025.02.14-05.44.28:567][115]LogFMOD: Default sample rate = 48000
+[2025.02.14-05.44.28:567][115]LogFMOD: System sample rate = 48000
+[2025.02.14-05.44.28:567][115]LogFMOD: Matching system sample rate 48000
+[2025.02.14-05.44.28:593][115]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.14-05.44.28:593][115]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.14-05.44.28:593][115]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.14-05.44.28:629][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.14-05.44.28:629][115]PIE: New page: PIE session: Test (15 Feb 2025, 2:44:28 am)
+[2025.02.14-05.44.28:629][115]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.44.28:652][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022413s)
+[2025.02.14-05.44.28:652][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.022452s)
+[2025.02.14-05.44.28:652][115]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-05.44.28:652][115]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-05.44.28:653][115]LogAIModule: Creating AISystem for world Test
+[2025.02.14-05.44.28:653][115]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2025.02.14-05.44.28:685][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.02.14-05.44.28:691][115]LogAudio: Display: Creating Audio Device:                 Id: 127, Scope: Unique, Realtime: True
+[2025.02.14-05.44.28:691][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.14-05.44.28:691][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.14-05.44.28:691][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.14-05.44.28:691][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.14-05.44.28:691][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.14-05.44.28:691][115]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.14-05.44.28:691][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.14-05.44.28:691][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.14-05.44.28:691][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.14-05.44.28:692][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.14-05.44.28:692][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.14-05.44.28:694][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.14-05.44.28:739][115]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.14-05.44.28:739][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.14-05.44.28:739][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.14-05.44.28:739][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.14-05.44.28:740][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=127
+[2025.02.14-05.44.28:740][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=127
+[2025.02.14-05.44.28:742][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=127
+[2025.02.14-05.44.28:742][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=127
+[2025.02.14-05.44.28:742][115]LogInit: FAudioDevice initialized with ID 127.
+[2025.02.14-05.44.28:742][115]LogAudio: Display: Audio Device (ID: 127) registered with world 'Test'.
+[2025.02.14-05.44.28:742][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 127
+[2025.02.14-05.44.28:745][115]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.14-05.44.28:750][115]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.14-16.14.28
+[2025.02.14-05.44.28:751][115]LogWorld: Bringing up level for play took: 0.006355
+[2025.02.14-05.44.28:754][115]LogOnline: OSS: Created online subsystem instance for: :Context_210
+[2025.02.14-05.44.28:762][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2093.236 Y=-1506.492 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.28:764][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2644.706 Y=2212.227 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.28:771][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2210.448 Y=-1963.766 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.28:772][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2159.339 Y=-1554.559 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.28:774][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2529.336 Y=-1747.741 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.28:775][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2523.868 Y=-1913.548 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.28:777][115]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2766.933 Y=2060.337 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.28:793][115]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.14-05.44.28:794][115]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.14-05.44.28:794][115]PIE: Server logged in
+[2025.02.14-05.44.28:794][115]PIE: Play in editor total start time 0.258 seconds.
+[2025.02.14-05.44.28:824][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:825][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:826][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:826][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:827][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:827][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:828][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:828][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:829][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:836][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.28:836][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.50:920][788]LogNet: Browse: /Game/MorphPond/Maps/Test
+[2025.02.14-05.44.50:920][788]LogLoad: LoadMap: /Game/MorphPond/Maps/Test
+[2025.02.14-05.44.50:920][788]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.44.50:931][788]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-05.44.50:933][788]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.44.50:970][788]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.14-05.44.50:977][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2025.02.14-05.44.50:984][788]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.44.51:007][788]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022134s)
+[2025.02.14-05.44.51:007][788]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.022193s)
+[2025.02.14-05.44.51:007][788]LogAudio: Display: Audio Device (ID: 127) registered with world 'Test'.
+[2025.02.14-05.44.51:007][788]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-05.44.51:007][788]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-05.44.51:007][788]LogAIModule: Creating AISystem for world Test
+[2025.02.14-05.44.51:008][788]LogPlayLevel: PIE: World Init took: (0.000897s)
+[2025.02.14-05.44.51:008][788]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.14-05.44.51:012][788]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.14-16.14.51
+[2025.02.14-05.44.51:013][788]LogWorld: Bringing up level for play took: 0.005503
+[2025.02.14-05.44.51:021][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2199.792 Y=2252.145 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.51:022][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1227.508 Y=-2024.284 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.51:024][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1683.419 Y=1963.013 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.51:025][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2375.705 Y=-2567.987 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.51:027][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2005.511 Y=2382.933 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.51:028][788]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2478.064 Y=-1288.910 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.44.51:052][788]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_1' was already added to the screen.
+[2025.02.14-05.44.51:052][788]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.14-05.44.51:052][788]LogLoad: Took 0.132438 seconds to LoadMap(/Game/MorphPond/Maps/UEDPIE_0_Test)
+[2025.02.14-05.44.51:078][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:079][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:080][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:080][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:081][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:081][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:082][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:082][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:083][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:089][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.44.51:090][788]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.20:701][924]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:103][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.14-05.45.45:104][724]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.45.45:109][724]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-05.45.45:111][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.45.45:122][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.14-05.45.45:129][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.45.45:165][724]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.02.14-05.45.45:165][724]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 127
+[2025.02.14-05.45.45:165][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=127
+[2025.02.14-05.45.45:166][724]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=127
+[2025.02.14-05.45.45:172][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.14-05.45.45:179][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2025.02.14-05.45.45:222][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:223][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:224][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:224][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:225][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:225][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:226][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:226][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:227][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:233][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:234][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.45.45:245][725]LogPlayLevel: Display: Destroying online subsystem :Context_210
+[2025.02.14-05.47.49:670][123]BlueprintLog: New page: Compile BP_CharacterBaseClass
+[2025.02.14-05.47.52:963][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.02.14-05.47.53:271][123]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.47.53:272][123]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.47.55:112][174]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.14-05.47.55:189][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MorphPond/Maps/Test" FILE="../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.14-05.47.55:233][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2025.02.14-05.47.55:298][174]LogSavePackage: Moving output files for package: /Game/MorphPond/Maps/Test
+[2025.02.14-05.47.55:299][174]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/TestD24EEA2347465FAC8682528CF9C90D6F.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap'
+[2025.02.14-05.47.55:314][174]LogFileHelpers: Saving map 'Test' took 0.126
+[2025.02.14-05.47.55:332][174]LogFileHelpers: InternalPromptForCheckoutAndSave took 219 ms (total: 2:24 min)
+[2025.02.14-05.47.55:343][174]AssetCheck: New page: Asset Save: Test
+[2025.02.14-05.47.55:344][174]LogContentValidation: Display: Validating /Script/Engine.World /Game/MorphPond/Maps/Test.Test
+[2025.02.14-05.48.04:347][655]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.02.14-05.48.04:389][655]LogFMOD: Display: Loaded bank lookup
+[2025.02.14-05.48.04:389][655]LogFMOD: Display: Loaded asset lookup
+[2025.02.14-05.48.04:395][655]LogFMOD: Default sample rate = 48000
+[2025.02.14-05.48.04:396][655]LogFMOD: System sample rate = 48000
+[2025.02.14-05.48.04:396][655]LogFMOD: Matching system sample rate 48000
+[2025.02.14-05.48.04:421][655]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Creature.bank
+[2025.02.14-05.48.04:421][655]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/Obstacles.bank
+[2025.02.14-05.48.04:421][655]LogFMOD: Loading bank: ../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/FMOD/Desktop/UI.bank
+[2025.02.14-05.48.04:458][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.02.14-05.48.04:458][655]PIE: New page: PIE session: Test (15 Feb 2025, 2:48:04 am)
+[2025.02.14-05.48.04:458][655]LogPlayLevel: Creating play world package: /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.48.04:480][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022256s)
+[2025.02.14-05.48.04:480][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MorphPond/Maps/Test.Test to /Game/MorphPond/Maps/UEDPIE_0_Test.Test (0.022297s)
+[2025.02.14-05.48.04:480][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.02.14-05.48.04:480][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.02.14-05.48.04:481][655]LogAIModule: Creating AISystem for world Test
+[2025.02.14-05.48.04:481][655]LogPlayLevel: PIE: World Init took: (0.000852s)
+[2025.02.14-05.48.04:513][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2025.02.14-05.48.04:518][655]LogAudio: Display: Creating Audio Device:                 Id: 128, Scope: Unique, Realtime: True
+[2025.02.14-05.48.04:519][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.02.14-05.48.04:519][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.02.14-05.48.04:519][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.02.14-05.48.04:519][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.02.14-05.48.04:519][655]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.02.14-05.48.04:519][655]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2025.02.14-05.48.04:519][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.02.14-05.48.04:519][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.02.14-05.48.04:519][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.02.14-05.48.04:519][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.02.14-05.48.04:519][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.02.14-05.48.04:521][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.02.14-05.48.04:566][655]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.02.14-05.48.04:567][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.02.14-05.48.04:567][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.02.14-05.48.04:567][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.02.14-05.48.04:568][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=128
+[2025.02.14-05.48.04:568][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=128
+[2025.02.14-05.48.04:569][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=128
+[2025.02.14-05.48.04:570][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=128
+[2025.02.14-05.48.04:570][655]LogInit: FAudioDevice initialized with ID 128.
+[2025.02.14-05.48.04:570][655]LogAudio: Display: Audio Device (ID: 128) registered with world 'Test'.
+[2025.02.14-05.48.04:570][655]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 128
+[2025.02.14-05.48.04:572][655]LogLoad: Game class is 'BP_MainGameMode_C'
+[2025.02.14-05.48.04:577][655]LogWorld: Bringing World /Game/MorphPond/Maps/UEDPIE_0_Test.Test up for play (max tick rate 0) at 2025.02.14-16.18.04
+[2025.02.14-05.48.04:579][655]LogWorld: Bringing up level for play took: 0.006195
+[2025.02.14-05.48.04:581][655]LogOnline: OSS: Created online subsystem instance for: :Context_211
+[2025.02.14-05.48.04:589][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1620.841 Y=1519.747 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.48.04:593][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-2066.716 Y=1545.703 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.48.04:594][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1882.475 Y=-1868.457 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.48.04:598][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2411.916 Y=-2566.934 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.48.04:599][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1830.915 Y=1602.101 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.48.04:603][655]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=2545.999 Y=-2537.453 Z=0.000] for [BP_En_SmallEnemy_C]
+[2025.02.14-05.48.04:618][655]LogScript: Warning: Script Msg: The widget 'UI_HUD_C_0' was already added to the screen.
+[2025.02.14-05.48.04:618][655]LogScript: Warning: Script Msg called by: BP_PlayerController_C /Game/MorphPond/Maps/UEDPIE_0_Test.Test:PersistentLevel.BP_PlayerController_C_0
+[2025.02.14-05.48.04:618][655]PIE: Server logged in
+[2025.02.14-05.48.04:619][655]PIE: Play in editor total start time 0.256 seconds.
+[2025.02.14-05.48.04:652][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:653][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:654][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:655][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:655][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:656][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:656][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:657][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:657][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:664][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.04:665][655]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.48.35:239][895]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.28:610][ 81]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.50:738][ 37]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:788][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.14-05.49.51:788][117]LogWorld: BeginTearingDown for /Game/MorphPond/Maps/UEDPIE_0_Test
+[2025.02.14-05.49.51:791][117]LogWorld: UWorld::CleanupWorld for Test, bSessionEnded=true, bCleanupResources=true
+[2025.02.14-05.49.51:792][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.49.51:801][117]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.02.14-05.49.51:811][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.02.14-05.49.51:854][117]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.02.14-05.49.51:856][117]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 128
+[2025.02.14-05.49.51:856][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=128
+[2025.02.14-05.49.51:858][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=128
+[2025.02.14-05.49.51:874][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.02.14-05.49.51:918][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:918][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:919][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:919][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:920][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:920][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:921][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:921][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:922][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:929][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:930][117]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2025.02.14-05.49.51:941][118]LogPlayLevel: Display: Destroying online subsystem :Context_211
+[2025.02.14-05.49.52:505][162]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.14-05.49.52:569][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MorphPond/Maps/Test" FILE="../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.02.14-05.49.52:601][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2025.02.14-05.49.52:665][162]LogSavePackage: Moving output files for package: /Game/MorphPond/Maps/Test
+[2025.02.14-05.49.52:666][162]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/Test231C72EB43A9D480B3D3E68546FB033F.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Maps/Test.umap'
+[2025.02.14-05.49.52:680][162]LogFileHelpers: Saving map 'Test' took 0.111
+[2025.02.14-05.49.52:697][162]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 2:24 min)
+[2025.02.14-05.49.52:706][162]AssetCheck: New page: Asset Save: Test
+[2025.02.14-05.49.52:706][162]LogContentValidation: Display: Validating /Script/Engine.World /Game/MorphPond/Maps/Test.Test
+[2025.02.14-05.49.54:291][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.02.14-05.49.54:298][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.02.14-05.49.54:628][283]LogSavePackage: Moving output files for package: /Game/MorphPond/Characters/BP_CharacterBaseClass
+[2025.02.14-05.49.54:628][283]LogSavePackage: Moving '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Saved/BP_CharacterBaseClassAB9430C4486DE13CEF4006A18C6493B0.tmp' to '../../../../../../Unreal Projects/MorphPondProject/MorphPond/Content/MorphPond/Characters/BP_CharacterBaseClass.uasset'
+[2025.02.14-05.49.54:646][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 348 ms (total: 2:25 min)
+[2025.02.14-05.49.54:658][283]AssetCheck: New page: Asset Save: BP_CharacterBaseClass
+[2025.02.14-05.49.54:658][283]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MorphPond/Characters/BP_CharacterBaseClass.BP_CharacterBaseClass
