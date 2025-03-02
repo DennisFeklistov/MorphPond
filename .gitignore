@@ -79,3 +79,4 @@ MorphPond/Plugins/Developer/*
 
 # Cache files for the editor to use
 MorphPond/DerivedDataCache/*
+Saved/Logs/MorphPond.log
